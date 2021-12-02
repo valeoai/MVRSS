@@ -16,14 +16,14 @@ The CARRADA dataset is available on Arthur Ouaknine's personal web page at this 
 
 If you find this code useful for your research, please cite [our paper](https://arxiv.org/abs/2103.16214):
 ```
-@misc{ouaknine2021multiview,
-      title={Multi-View Radar Semantic Segmentation},
-      author={Arthur Ouaknine and Alasdair Newson and Patrick Pérez and Florence Tupin and Julien Rebut},
-      year={2021},
-      eprint={2103.16214},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
+@InProceedings{Ouaknine_2021_ICCV,
+	       author = {Ouaknine, Arthur and Newson, Alasdair and P\'erez, Patrick and Tupin, Florence and Rebut, Julien},
+	       title = {Multi-View Radar Semantic Segmentation},
+	       booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+	       month = {October},
+	       year = {2021},
+	       pages = {15671-15680}
+	       }
 ```
 
 
